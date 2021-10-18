@@ -4,6 +4,7 @@
 <h1 align="center">
   <img alt="Readme" title="Readme" src="Animation.gif" />
 </h1>
+<h2 align='center'> <a href="https://loving-visvesvaraya-73d31b.netlify.app/" target='_blank'>Link do Projeto</a></h2>
 
 <h4 align="center"> 
 	🚧  To do Tarefas 📓 Pronto para apresentação  🚧
